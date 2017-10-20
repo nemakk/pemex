@@ -1,0 +1,44 @@
+.header {
+  background-color: lighten-3grey lighten-3;
+  color: red;
+  opacity: 0.25;
+  font-size: 20px;
+  padding: 30px
+}
+
+#header1 {
+font-size: 30px;
+
+}
+
+.nav-mobile {
+color: black;
+
+}
+
+.parallax-container {
+  height: 100px;
+}
+
+#page-footer {
+
+  color: black;
+
+}
+
+#foo {
+height: 50px;
+justify-content: space-around;
+}
+
+#foot {
+font-size: 12px;
+font-style: normal;
+font: arial;
+
+}
+
+.fc {
+  background-color: blue;
+  height: 2.5px;
+}
